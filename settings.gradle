@@ -1,0 +1,7 @@
+//#rootProject.name = 'MyProjects'
+
+// 
+// 所有子项目
+// 
+include 'deps:jfinal'
+include 'projects:ailaosao-web'

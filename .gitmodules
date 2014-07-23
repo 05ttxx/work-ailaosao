@@ -1,0 +1,6 @@
+[submodule "deps/jfinal"]
+	path = deps/jfinal
+	url = https://github.com/longjl/jfinal-fork.git
+[submodule "projects/ailaosao-web"]
+	path = projects/ailaosao-web
+	url = https://github.com/longjl/ailaosao-web.git
