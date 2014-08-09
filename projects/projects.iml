@@ -102,7 +102,43 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
+          <root url="jar://$MODULE_DIR$/../libs/IKAnalyzer2012FF_u1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
           <root url="jar://$MODULE_DIR$/../libs/jetty-server-8.1.8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../libs/jfinal-1.8-bin-with-src.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../libs/lucene-core-4.9.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../libs/lucene-queryparser-4.9.0.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
